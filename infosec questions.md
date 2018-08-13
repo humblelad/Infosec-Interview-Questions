@@ -82,7 +82,7 @@ Trick question here. And the goal is not to be cute. If you can’t wait to smas
 Look for a smile like they caught you in the cookie jar. If they’re confused, then this role should be for an extremely junior position.
 
 ## Network Security
-#W hat port does ping work over?
+# What port does ping work over?
 A trick question, to be sure, but an important one. If they start throwing out port numbers you may want to immediately move to the next candidate. Hint: ICMP is a layer 3 protocol (it doesn’t work over a port) A good variation of this question is to ask whether ping uses TCP or UDP. An answer of either is a fail, as those are layer 4 protocols.
 
 # Do you prefer filtered ports or closed ports on your firewall?

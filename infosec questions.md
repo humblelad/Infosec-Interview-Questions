@@ -26,7 +26,7 @@ Their list isn’t key here (unless it’s bad); the key is to not get panic.
 Does TLS use symmetric or asymmetric encryption?
 Both. Have them talk through how each are used. The key (sorry) is that they understand the initial exchange is done using asymmetric and that bulk data encryption requires speed and therefore symmetric algorithms.
 
-#What’s the difference between symmetric and public-key cryptography?
+# What’s the difference between symmetric and public-key cryptography?
 Standard stuff here: single key vs. two keys, etc, etc.
 
 # In public-key cryptography you have a public and a private key,and you often perform both encryption and signing functions.Which key is used for which function?

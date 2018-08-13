@@ -1,5 +1,5 @@
 
-What follows is a list of techniques for vetting candidates in Information Security (InfoSec / Cybersecurity). The list and approach has evolved over the years, as I think it should, and I think it represents a good balance between technical content and the philosophy around desired answers.
+**What** follows is a list of techniques for vetting candidates in Information Security (InfoSec / Cybersecurity). The list and approach has evolved over the years, as I think it should, and I think it represents a good balance between technical content and the philosophy around desired answers.
 
 Humans are bad at interviewing because we are full of biases. You’re bad at it. I’m bad at it. Everyone’s bad at it. And the more you know this—and work to guard against it—the better (or at least less bad) you’ll be.
 The goal of interviewing should be to extract the best from the candidate, not to trick them, make them uncomfortable, or otherwise keep them from shining.
@@ -22,7 +22,7 @@ Here you’re looking for a quick comeback for any position that will involve sy
 What are your first three steps when securing a Linux server?
 Their list isn’t key here (unless it’s bad); the key is to not get panic.
 
-#Encryption
+# Encryption
 Does TLS use symmetric or asymmetric encryption?
 Both. Have them talk through how each are used. The key (sorry) is that they understand the initial exchange is done using asymmetric and that bulk data encryption requires speed and therefore symmetric algorithms.
 

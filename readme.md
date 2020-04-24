@@ -98,8 +98,8 @@ The key point people usually miss is that each packet that’s sent out doesn’
 # What are Linux’s strengths and weaknesses vs. Windows?
 Look for biases. Does he absolutely hate Windows and refuse to work with it? This is a sign of an immature hobbyist who will cause you problems in the future. Is he a Windows fanboy who hates Linux with a passion? If so just thank him for his time and show him out. Linux is everywhere in the security world.
 
-##Application Security
-#Describe the last program or script that you wrote.
+## Application Security
+# Describe the last program or script that you wrote.
 What problem did it solve?
 All we want to see here is if the color drains from the person’s face. If they panic then we not only know they’re not a programmer (not necessarily bad), but that he’s afraid of programming (bad). I know it’s controversial, but I think that any high-level security person needs at least some programming skills. They don’t need to be a God at it, but they need to understand the concepts and at least be able to muddle through some scripting when required.
 

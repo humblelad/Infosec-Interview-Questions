@@ -1,3 +1,5 @@
+# Infosec-Interview-Questions
+Made for public view and quick reference. All credit to Daniel(https://danielmiessler.com/study/infosec_interview_questions/)
 
 **What** follows is a list of techniques for vetting candidates in Information Security (InfoSec / Cybersecurity). The list and approach has evolved over the years, as I think it should, and I think it represents a good balance between technical content and the philosophy around desired answers.
 
